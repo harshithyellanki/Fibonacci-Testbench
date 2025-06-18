@@ -1,5 +1,4 @@
 # Fibonacci-Testbench
-Certainly! Here's your modified `README.md`, reworded and formatted to reflect that this is your **personal GitHub project** and not a classroom assignment, while **retaining the style and clarity of the original**:
 
 ````markdown
 # Fibonacci Hardware Verification – SystemVerilog Testbenches
